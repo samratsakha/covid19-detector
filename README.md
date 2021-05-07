@@ -1,2 +1,2 @@
-# covid19-detector
-Covid19-Detection - Using chest X-ray images
+# surface-quality-prediction
+Surface Finish Quality Prediction of Welded Joints using Convolutional Neural Networks
